@@ -1,0 +1,6 @@
+{
+  "name": "SmartHire AI",
+  "description": "AI-powered HR management system for resume screening, scoring, bias-detection, and candidate ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
